@@ -1,4 +1,44 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Recipe'
 theme = 'ananke'
+defaultContentLanguage = 'en'
+
+# ---- hugo-gettext の設定 ----
+[i18n]
+  package = "messages"              # POTファイル名：messages.pot
+  genToOtherDir = true              # 翻訳結果を別ディレクトリに生成
+  srcDir = "content"                # 原文（英語）の場所
+  genDir = "content-translated"     # 生成ディレクトリ
+
+  [i18n.content]
+    [i18n.content.default]
+      files = ["content/_index.md"]
+      globs = ["content/**/*.md"]
+
+# ---- Hugo の多言語設定 ----
+[languages]
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    title = "Simple Recipes"
+    weight = 1
+  [languages.ja]
+    languageCode = "ja"
+    languageName = "日本語"
+    weight = 2
+
+# ---- フォールバックマウント ----
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+    lang = "en"
+
+  [[module.mounts]]
+    source = "content-translated/ja"
+    target = "content"
+    lang = "ja"
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+    lang = "ja"
