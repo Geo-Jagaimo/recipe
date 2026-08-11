@@ -15,11 +15,11 @@ msgstr ""
 
 #: content/_index.md:0
 msgid "Recipe"
-msgstr ""
+msgstr "レシピ"
 
 #: content/_index.md:5
 msgid "Welcome to Recipe, a small collection of easy dishes anyone can cook."
-msgstr ""
+msgstr "「Recipe」へようこそ。誰でも作れる簡単な料理を集めた、小さなレシピ集です。"
 
 #: content/recipes/_index.md:0
 msgid "My Recipes"
@@ -27,31 +27,31 @@ msgstr ""
 
 #: content/recipes/onigiri.md:0
 msgid "Onigiri (Japanese Rice Balls)"
-msgstr ""
+msgstr "おにぎり"
 
 #: content/recipes/onigiri.md:6
 msgid "Ingredients"
-msgstr ""
+msgstr "材料"
 
 #: content/recipes/onigiri.md:8
 msgid "2 cups of cooked Japanese short-grain rice"
-msgstr ""
+msgstr "炊いたごはん2カップ"
 
 #: content/recipes/onigiri.md:9
 msgid "1 sheet of nori seaweed"
-msgstr ""
+msgstr "のり1枚"
 
 #: content/recipes/onigiri.md:10
 msgid "1 grilled salted salmon fillet, flaked"
-msgstr ""
+msgstr "焼き鮭（塩鮭）1切れ（粗くほぐしておく）"
 
 #: content/recipes/onigiri.md:11
 msgid "Salt"
-msgstr ""
+msgstr "塩"
 
 #: content/recipes/onigiri.md:13
 msgid "Steps"
-msgstr ""
+msgstr "調理工程"
 
 #: content/recipes/onigiri.md:15
 msgid "Wet your hands with water and sprinkle them with salt."
