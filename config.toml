@@ -20,7 +20,7 @@ defaultContentLanguage = 'en'
   [languages.en]
     languageCode = "en"
     languageName = "English"
-    title = "Simple Recipes"
+    title = "Recipe"
     weight = 1
   [languages.ja]
     languageCode = "ja"
