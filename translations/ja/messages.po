@@ -1,0 +1,74 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: messages 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-12 02:50+0900\n"
+"PO-Revision-Date: 2026-08-12 02:50+0900\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: content/_index.md:0
+msgid "Recipe"
+msgstr ""
+
+#: content/_index.md:5
+msgid "Welcome to Recipe, a small collection of easy dishes anyone can cook."
+msgstr ""
+
+#: content/recipes/_index.md:0
+msgid "My Recipes"
+msgstr ""
+
+#: content/recipes/onigiri.md:0
+msgid "Onigiri (Japanese Rice Balls)"
+msgstr ""
+
+#: content/recipes/onigiri.md:6
+msgid "Ingredients"
+msgstr ""
+
+#: content/recipes/onigiri.md:8
+msgid "2 cups of cooked Japanese short-grain rice"
+msgstr ""
+
+#: content/recipes/onigiri.md:9
+msgid "1 sheet of nori seaweed"
+msgstr ""
+
+#: content/recipes/onigiri.md:10
+msgid "1 grilled salted salmon fillet, flaked"
+msgstr ""
+
+#: content/recipes/onigiri.md:11
+msgid "Salt"
+msgstr ""
+
+#: content/recipes/onigiri.md:13
+msgid "Steps"
+msgstr ""
+
+#: content/recipes/onigiri.md:15
+msgid "Wet your hands with water and sprinkle them with salt."
+msgstr ""
+
+#: content/recipes/onigiri.md:16
+msgid "Take a handful of warm rice and make a small well in the center."
+msgstr ""
+
+#: content/recipes/onigiri.md:17
+msgid "Put the flaked salmon into the well and cover it with rice."
+msgstr ""
+
+#: content/recipes/onigiri.md:18
+msgid "Gently press the rice into a triangle shape."
+msgstr ""
+
+#: content/recipes/onigiri.md:19
+msgid "Wrap the rice ball with a strip of nori and serve."
+msgstr ""
