@@ -1,0 +1,6 @@
+[env]
+UV_PYTHON = "3.12"
+
+[tools]
+"asdf:NeoHsu/asdf-hugo" = "extended_withdeploy-0.164.0"
+"pipx:hugo-gettext" = "0.6.0"
