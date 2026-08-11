@@ -21,13 +21,15 @@ defaultContentLanguage = 'en'
     languageCode = "en"
     languageName = "English"
     title = "Recipe"
-    weight = 1
+    weight = 2
+  contentDir = "content-translated/en"
   [languages.ja]
     languageCode = "ja"
     languageName = "日本語"
     weight = 2
 
 # ---- フォールバックマウント ----
+  contentDir = "content-translated/ja"
 [module]
   [[module.mounts]]
     source = "content"
