@@ -1,9 +1,34 @@
-# Hugo default output directory
+# Hugo build output
 /public
 /public_dev
 /public_www
 /public_nocache
 /public_prod
 /public_subsites
-/resources/_gen/
+
+# Hugo generated resources / cache
+/resources/
 .hugo_build.lock
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Env
+.env
+.env.*
+!.env.example
